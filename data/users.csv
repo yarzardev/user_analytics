@@ -1,0 +1,6 @@
+id,name,age,country,active
+1,Alice,34,US,true
+2,Bob,17,UK,false
+3,Charlie,29,US,true
+4,Diana,42,DE,true
+5,Eve,22,UK,false
