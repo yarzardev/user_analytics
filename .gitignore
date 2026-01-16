@@ -1,0 +1,55 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --------------------
+# Virtual Environments
+# --------------------
+venv/
+.venv/
+env/
+ENV/
+
+# --------------------
+# VS Code
+# --------------------
+.vscode/
+*.code-workspace
+
+# --------------------
+# OS / Editor junk
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Jupyter
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# Build / Cache
+# --------------------
+.build/
+dist/
+*.egg-info/
+
+# --------------------
+# Data Outputs
+# --------------------
+*.png
+*.jpg
+*.pdf
+
+# --------------------
+# Local Data (optional)
+# Uncomment if CSVs are local-only
+# data/*.csv
