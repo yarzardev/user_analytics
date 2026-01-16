@@ -7,4 +7,6 @@ def plot_average_age(avg_age: pd.Series) -> None:
     plt.title("Average Age by Country")
     plt.ylabel("Age")
     plt.tight_layout()
-    plt.show()
+
+    plt.savefig("average_age_by_country.png")
+    plt.close()
